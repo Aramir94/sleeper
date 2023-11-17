@@ -4,7 +4,7 @@ Sleeper는 파이썬을 사용하여 정규 분포에 따라 랜덤하게 대기
 
 ## 설치
 
-`pip install sleeper`
+`pip install cute_sleeper`
 
 ## 사용 방법
 
