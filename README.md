@@ -1,4 +1,4 @@
-# Sleeper
+# cute_sleeper
 
 cute_sleeper는 파이썬을 사용하여 정규 분포에 따라 랜덤하게 대기하는 간단한 라이브러리입니다.
 
